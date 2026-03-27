@@ -10,3 +10,4 @@ And if the original creator sees this: I am kindly asking you for your approval 
 Anyone can contribute and add more letters if they want to.
 
 It was upgraded thanks to: FontForge: https://fontforge.org/en-US/
+<img width="1000" height="273" alt="Prezentacia_SK_pismen" src="https://github.com/user-attachments/assets/bf96263b-5730-4ab9-8714-350a4b886623" />
