@@ -4,9 +4,9 @@ Vytvoril:/Created by: Marnador
 
 ------
 
-SK: Toto vylepšenie pridáva slovenské písmená: Áá É Í Ó Ú Ý ô Č Ď Ľ Ĺ Ň Ŕ Š Ť Ž (veľké ô tam jasneže je a ä už bolo v pôvodnom, taktiež malé písmená sú veľké, jediné rozdiely sú "O, o" a "A, a")
+SK: Toto vylepšenie pridáva slovenské písmená: Áá É Í Ó Ú Ý ô Č Ď Ľ Ĺ Ň Ŕ Š Ť Ž (i české: ů ě ř) (veľké ô tam jasneže je a ä už bolo v pôvodnom, taktiež malé písmená sú veľké, jediné rozdiely sú "O, o"; "A, a"; "R, r")
 
-EN: This upgrade adds Slovak letters: Á É Í Ó Ú Ý ô Č Ď Ľ Ĺ Ň Ŕ Š Ť Ž (big ô is also there and ä was already in the original, also small letters are big, the only differences are the "O, o" and the "A, a")
+EN: This upgrade adds Slovak letters: Á É Í Ó Ú Ý ô Č Ď Ľ Ĺ Ň Ŕ Š Ť Ž (big ô is also there and ä was already in the original, also small letters are big, the only differences are the "O, o"; "A, a"; "R, r")
 
 ------
 
